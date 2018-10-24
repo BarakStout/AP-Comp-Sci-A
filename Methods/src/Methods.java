@@ -70,8 +70,7 @@ public class Methods {
 	// Puzzle 5
 	/* TODO : Returns the larger of two integers.
 	 * ------PARAMETERS------
-	 * int a : An integer to compare.
-	 * int b : A second integer to compare.
+	 * int a, b : An integer to compare.
 	 * ------RETURN VALUES------
 	 * RETURN the larger of a and b.
 	 */
@@ -82,8 +81,7 @@ public class Methods {
 	// Puzzle 6
 	/* TODO : Returns the larger of two doubles.
 	 * ------PARAMETERS------
-	 * double a : A double to compare.
-	 * double b : A second double to compare.
+	 * double a, b : A double to compare.
 	 * ------RETURN VALUES------
 	 * RETURN the larger of a and b.
 	 */
@@ -103,51 +101,48 @@ public class Methods {
 		return -1; // Default return statement, delete.
 	}
 	// Puzzle 8
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Returns if two numbers are evenly divisible.
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * int a ,b : A number to compare.
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * IF a is divisible by b,
+	 * 		OR b is divisible by a,
+	 * 		RETURN true.
+	 * ELSE
+	 * 		RETURN false.
 	 */
 	public static boolean evenlyDivisible(int a, int b){
 		
 		return false; // Default return statement, delete.
 	}
 	// Puzzle 9
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Returns the average of three numbers.
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * int a, b, c : A number to average.
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * RETURN the average of a, b, c as a double.
 	 */
 	public static double average(int a, int b, int c) {
 		
+		return -1; // Default return statement, delete.
 	}
 	// Puzzle 10
-	/* TODO : <Description>
-	 * USES: -/-
-	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
-	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
-	 */
+	/* TODO : Returns the average of three numbers.
+	* ------PARAMETERS------
+	* int a, b, c, d : A number to average.
+	* ------RETURN VALUES------
+	* RETURN the average of a, b, c, d as a double.
+	*/
 	public static double average(int a, int b, int c, int d) {
 		
 	}
 	// Puzzle 11
-	/* TODO : <Description>
-	 * USES: -/-
-	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
-	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
-	 */
+	/* TODO : Returns the average of three numbers.
+	* ------PARAMETERS------
+	* int a, b, c, d, e : A number to average.
+	* ------RETURN VALUES------
+	* RETURN the average of a, b, c, d, e as a double.
+	*/
 	public static double average(int a, int b, int c, int d, int e) {
 		
 	}
