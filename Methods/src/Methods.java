@@ -102,4 +102,161 @@ public class Methods {
 		
 		return -1; // Default return statement, delete.
 	}
+	// Puzzle 8
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static boolean evenlyDivisible(int a, int b){
+		
+		return false; // Default return statement, delete.
+	}
+	// Puzzle 9
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static double average(int a, int b, int c) {
+		
+	}
+	// Puzzle 10
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static double average(int a, int b, int c, int d) {
+		
+	}
+	// Puzzle 11
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static double average(int a, int b, int c, int d, int e) {
+		
+	}
+	// Puzzle 12
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static String multiConcat(String str, int copy) {
+		
+	}
+	// Puzzle 13
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static String multiConcat(String str) {
+		
+	}
+	// Puzzle 14
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static boolean isAlpha(String str) {
+		
+	}
+	// Puzzle 15
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static int validate(int min, int max, int val) {
+		
+	}
+	// Puzzle 16
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static boolean floatEquals(double a, double b, double tolerance) {
+		
+	}
+	// Puzzle 17
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static String reverse(String str) {
+		
+	}
+	// Puzzle 18
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static boolean isosceles(int side1, int side2, int side3) {
+		
+	}
+	// Puzzle 19
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static int randomInRange(int a, int b) {
+		
+	}
+	// Puzzle 20
+	/* TODO : <Description>
+	 * USES: -/-
+	 * ------PARAMETERS------
+	 * <Type> <name> : <desc>
+	 * 		<limits>
+	 * ------RETURN VALUES------
+	 * <IF, ELSE, RETURN>
+	 */
+	public static int randomInRange(int a) {
+		
+	}
 }
