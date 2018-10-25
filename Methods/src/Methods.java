@@ -135,6 +135,7 @@ public class Methods {
 	*/
 	public static double average(int a, int b, int c, int d) {
 		
+		return -1; // Default return statement, delete.
 	}
 	// Puzzle 11
 	/* TODO : Returns the average of three numbers.
@@ -145,54 +146,66 @@ public class Methods {
 	*/
 	public static double average(int a, int b, int c, int d, int e) {
 		
+		return -1; // Default return statement, delete.
 	}
 	// Puzzle 12
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Concatenates a String to itself several times and returns it.
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * String str : A String to concatenate.
+	 * int copy : How many times to concatenate the String (1 = return original, 2 = concatenate 1 time, etc.).
+	 * 		copy > 0
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * RETURN str concatenated to itself the correct amount of times.
 	 */
 	public static String multiConcat(String str, int copy) {
 		
+		return ""; // Default return statement, delete.
 	}
 	// Puzzle 13
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Overload for multiConcat(String,int) that defaults to 1 concatenation.
+	 * USES: multiConcat(String, int)
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * String str : A String to concatenate.
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * RETURN str concatenated to itself one time.
 	 */
 	public static String multiConcat(String str) {
 		
+		return ""; // Default return statement, delete.
 	}
 	// Puzzle 14
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Returns if the first letter of a String is a letter.
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * String str : A String to evaluate
+	 * 		str.length >= 1
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * IF the first character of str is any letter, capital or lowercase,
+	 * 		RETURN true.
+	 * ELSE
+	 * 		RETURN false.
 	 */
 	public static boolean isAlpha(String str) {
 		
+		return false; // Default return statement, delete.
 	}
 	// Puzzle 15
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Returns a number between two other numbers that the user supplies.
+	 * If the intial value is not between min and max, ask the user for another val
+	 * 	until the provided number is within the range (or equal to either bound).
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * int min : The lowest acceptable value.
+	 * int max : The highest acceptable value.
+	 * 		max > min
+	 * int val : The intial value to evaluate.
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * IF the provided val is between min and max,
+	 * 		RETURN val.
+	 * ELSE
+	 * 		Ask the user for a new val and reevaluate.
 	 */
 	public static int validate(int min, int max, int val) {
 		
+		return -1; // Default return statement, delete.
 	}
 	// Puzzle 16
 	/* TODO : <Description>
