@@ -5,16 +5,6 @@
  * Good luck!
  */
 
-// Layout of description: TODO DELETE WHEN DONE
-// Puzzle X
-/* TODO : <Description>
- * USES: -/-
- * ------PARAMETERS------
- * <Type> <name> : <desc>
- * 		<limits>
- * ------RETURN VALUES------
- * <IF, ELSE, RETURN>
- */
 
 public class Methods {
 	public static void main(String[] args) {
@@ -208,63 +198,73 @@ public class Methods {
 		return -1; // Default return statement, delete.
 	}
 	// Puzzle 16
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Returns if two doubles are essentially equal based on an allowed difference.
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * double a, b : A double to compare.
+	 * double tolerance : A maximum permitted distance between a and b.
+	 * 		tolerance >= 0
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * IF the difference between a and b is less than or equal to tolerance
+	 * 		RETURN true.
+	 * ELSE
+	 * 		RETURN false.
 	 */
 	public static boolean floatEquals(double a, double b, double tolerance) {
 		
+		return false; // Default return statement, delete.
 	}
 	// Puzzle 17
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Returns a given string backwards.
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * String str : A string to reverse.
+	 * 		str.length >= 1
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * RETURN str with its characters reversed.
 	 */
 	public static String reverse(String str) {
 		
+		return ""; // Default return statement, delete.
 	}
 	// Puzzle 18
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Returns if a triangle with given sides is isosceles but not equilateral.
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * int side1, side2, side3 : A side of a triangle.
+	 * 		side1, side2, side3 >= 1
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * IF any two sides are equal
+	 * 		AND all three sides are not equal,
+	 * 		RETURN true.
+	 * ELSE
+	 * 		RETURN false.
 	 */
 	public static boolean isosceles(int side1, int side2, int side3) {
 		
+		return false; // Default return statement, delete.
 	}
 	// Puzzle 19
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Generates a random number between two given numbers and returns it.
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * int min : The minimum possible value (inclusive) to return.
+	 * int max : The maximum possible value (exclusive) to return.
+	 * 		max > min
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * RETURN a random number between min and max.
 	 */
-	public static int randomInRange(int a, int b) {
+	public static int randomInRange(int min, int max) {
 		
+		return -1; // Default return statement, delete.
 	}
 	// Puzzle 20
-	/* TODO : <Description>
-	 * USES: -/-
+	/* TODO : Overloads randomInRange, assuming min is 1.
+	 * USES: randomInRange(int, int)
 	 * ------PARAMETERS------
-	 * <Type> <name> : <desc>
-	 * 		<limits>
+	 * int max : The maximum possible value (exclusive) to return.
+	 * 		max > 1
 	 * ------RETURN VALUES------
-	 * <IF, ELSE, RETURN>
+	 * RETURN a random number between 1 and max.
 	 */
-	public static int randomInRange(int a) {
+	public static int randomInRange(int max) {
 		
+		return -1; // Default return statement, delete.
 	}
 }
