@@ -1,6 +1,12 @@
-/* Project 5: Simple Methods
+/* Simple Methods Project
+ *
  * Complete each of the puzzles, 1-20.
  * Assure each function works correctly by running the program.
+ * HINT: You will have to call each method from the main method in order to test them. 
+ * 
+ * To submit, zip the .java file and email it to Mr. Stout
+ * Your program will be auto graded. Make sure you do not change any of the function signatures. 
+ * 
  * Things of importance are marked with TODO.
  * Good luck!
  */
@@ -8,7 +14,7 @@
 
 public class Methods {
 	public static void main(String[] args) {
-		// DO NOT EDIT THE MAIN. It tests your functions.
+		// Write your own tests to check if the function works properly
 	}
 
 	// Puzzle 1
