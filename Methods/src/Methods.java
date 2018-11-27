@@ -68,7 +68,9 @@ public class Methods {
 	 * ------PARAMETERS------
 	 * int a, b : An integer to compare.
 	 * ------RETURN VALUES------
-	 * RETURN the larger of a and b.
+	 * RETURN true if a is larger than b.
+	 * ELSE 
+	 * 	RETURN false.
 	 */
 	public static int maxOfTwo(int a, int b) {
 		
@@ -79,7 +81,9 @@ public class Methods {
 	 * ------PARAMETERS------
 	 * double a, b : A double to compare.
 	 * ------RETURN VALUES------
-	 * RETURN the larger of a and b.
+	 * RETURN true if a is larger than b.
+	 * ELSE 
+	 * 	RETURN false.
 	 */
 	public static boolean larger(double a, double b){
 		
