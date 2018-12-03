@@ -2,6 +2,8 @@
 
 // You will need to modify most the functions in this code. Follow the TODOs... 
 
+// When you are done, zip & email to Mr. Stout
+
 public class HangmanGame implements Hangman {
 
    // DO NOT TOUCH	
