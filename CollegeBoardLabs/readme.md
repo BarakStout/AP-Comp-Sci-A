@@ -1,3 +1,3 @@
 # College Board Labs
 
-In this folder you will find the starter code for all 3 College Board Labs for AP Computer Science A. For more information about these labs visit [The College Board](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources/lab-resource-page) or [Mr. Stout's AP Comp Sci A Site](http://barakstout.com/apcompscia.html#college_board_labs). 
+In this folder you will find the starter code for all 3 College Board Labs for AP Computer Science A. For more information about these labs visit [The College Board](https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources/lab-resource-page). 
